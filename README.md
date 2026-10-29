@@ -16,6 +16,8 @@ Building scalable backend services, event-driven systems, and reliable distribut
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munavar-k-a8665b273/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://munavarkfull-stack-ecru.vercel.app/)
+
 ---
 
 ### Tech Stack
@@ -56,11 +58,3 @@ Building scalable backend services, event-driven systems, and reliable distribut
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mnvrlogs-6393&show_icons=true&hide_title=true&include_all_commits=true&theme=transparent" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnvrlogs-6393&layout=compact&hide_title=true&theme=transparent" alt="Top Languages" />
-</p>
