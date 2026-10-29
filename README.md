@@ -58,3 +58,13 @@ Building scalable backend services, event-driven systems, and reliable distribut
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
+---
+
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mnvrlogs-6393&show_icons=true&hide_title=true" height="165" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mnvrlogs-6393&layout=compact&hide_title=true" height="165" alt="Top Languages" />
+</p>
+
+
