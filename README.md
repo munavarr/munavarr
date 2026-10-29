@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer;Backend+Architecture+%26+Distributed+Systems;Building+Scalable+Event-Driven+Applications" alt="Typing SVG" />
+</p>
+
 # Munavar K
 
 ### Full-Stack Engineer | Backend Architecture | Distributed Systems
@@ -58,13 +62,5 @@ Building scalable backend services, event-driven systems, and reliable distribut
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mnvrlogs-6393&show_icons=true&hide_title=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mnvrlogs-6393&layout=compact&hide_title=true" height="165" alt="Top Languages" />
-</p>
 
 
