@@ -9,7 +9,7 @@
 
 Building scalable backend services, event-driven systems, and reliable distributed applications.
 
-- 🔭 **Currently working on:** Customised Vendure and backend engineering projects
+- 🔭 **Currently working on:** building better backend systems and exploring new technologies.
 - 🌱 **Currently exploring:** Distributed systems, system design, cloud infrastructure, and database internals
 - ⚙️ **Core stack:** Node.js, TypeScript, NestJS, PostgreSQL, Kafka, and microservices
 - 📫 **Contact:** [mnvrlogs@gmail.com](mailto:mnvrlogs@gmail.com)
